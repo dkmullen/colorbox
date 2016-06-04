@@ -15,17 +15,17 @@ a {
 	flex-wrap: wrap;
 }
 #redbox {
-	background-color: #ff476c;
+	background-color: #FF476C;
 	width: 100%;
 	height: 125px;
 }
 #bluebox {
-	background-color: #306c83;
+	background-color: #306C83;
 	width: 100%;
 	height: 300px;
 }
 #yellowbox {
-	background-color: #fff7bb;
+	background-color: #FFF7BB;
 	width: 100%;
 	height: 300px;
 }
@@ -35,7 +35,7 @@ a {
 	height: 300px;
 }
 footer {
-	background-color: #e5e5e7;
+	background-color: #232A45;
 	width: 100%;
 	height: 150px;	
 }
